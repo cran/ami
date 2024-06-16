@@ -7,6 +7,8 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ami)](https://CRAN.R-project.org/package=ami)
 [![R-CMD-check](https://github.com/briandconnelly/ami/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/briandconnelly/ami/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/briandconnelly/ami/branch/main/graph/badge.svg)](https://app.codecov.io/gh/briandconnelly/ami?branch=main)
@@ -50,6 +52,9 @@ ami::online()
 ``` r
 ami::using_rstudio()
 #> [1] FALSE
+```
+
+``` r
 
 ami::using_rstudio_dark_theme()
 #> [1] FALSE
@@ -74,6 +79,9 @@ ami::using_docker_container()
 ``` r
 ami::using_ci()
 #> [1] FALSE
+```
+
+``` r
 
 ami::using_github_actions()
 #> [1] FALSE
