@@ -1,6 +1,6 @@
 Package: ami
 Title: Checks for Various Computing Environments
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Brian", "Connelly", , "bdc@bconnelly.net", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-9948-0379")),
@@ -25,11 +25,11 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-10-25 15:33:58 UTC; bconnelly
+Packaged: 2024-11-15 18:04:52 UTC; bconnelly
 Author: Brian Connelly [aut, cre, cph]
     (<https://orcid.org/0000-0002-9948-0379>),
   Mark Padgham [ctb] (<https://orcid.org/0000-0003-2172-5265>),
   Lluís Revilla Sancho [ctb] (<https://orcid.org/0000-0001-9747-2570>)
 Maintainer: Brian Connelly <bdc@bconnelly.net>
 Repository: CRAN
-Date/Publication: 2024-10-25 15:50:02 UTC
+Date/Publication: 2024-11-15 18:20:01 UTC

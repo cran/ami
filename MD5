@@ -1,7 +1,7 @@
-1a04945e877c5f24112f523bf64fc660 *DESCRIPTION
+3fddc8ce8b8b82a15331ae53762522f5 *DESCRIPTION
 b00e6df4b90db26cd3b9140e412576a2 *LICENSE
-a68d67da650ac1035de7c956cd06f466 *NAMESPACE
-85c91a6dea91f29484802710354b37d8 *NEWS.md
+efd53596b3f4837d2e0d5ae3a6ab7181 *NAMESPACE
+a8ba78861dc669648712287c74def32c *NEWS.md
 b19541931158e6f898857f33d1b5c430 *R/account.R
 a6d659e35d65b734457c8e06ea58a34d *R/ami-package.R
 dc7d94bce9bc6d9add126ba7a145b3b3 *R/bioconductor.R
@@ -18,13 +18,15 @@ edc8722f89707a0032dec75186db528d *R/databricks.R
 4d7c88e062cbc4f0ce1973758b7ffdcf *R/nix.R
 82fd9da9221cfc4f5fa02c0f11cd8d78 *R/option.R
 4e8243e9462a18602f2f06fcf97be7f7 *R/os.R
+a800b58b1a1014cdf32f1026fbc08fe8 *R/positron.R
+f6a4e4384570d94b4afc1b62bead83fa *R/python_venv.R
 a2135a688dce09707a2b925597918684 *R/quarto.R
 bf16c3f8ed1eb93007801ff6763ea158 *R/r.R
 9fed62a6ef5a1b881026b7366179ff85 *R/rstudio.R
 87ec328b041b75107c34fee9bfc21930 *R/testthat.R
 87023653cc34239693e8eaeb8dbd4536 *R/utils.R
 77b40352811db7f30b07f8f3da5f903a *R/vscode.R
-bac4d9136875495a53e5b48e3fc365a0 *README.md
+821e8d3abd132af97bd141aad18c9d83 *README.md
 7e38a26d8da04d8070cce96f581fa75c *inst/WORDLIST
 f7525cb15fb967b8473a15214e142f33 *man/account.Rd
 c5250acf24d67e66984804ca16022a88 *man/ami-package.Rd
@@ -49,6 +51,8 @@ c3978703d8f40f2679795335715e98f4 *man/figures/lifecycle-experimental.svg
 7095e65fdc5800086259b456e4176710 *man/nix.Rd
 4bd13f75ac11c70bb5d03b7b364ffed4 *man/option.Rd
 e2a0fc9a8a4c608e298be53d2e92bd0d *man/os.Rd
+aa0e2a99aa7e7601203ab80a7492d1e6 *man/positron.Rd
+b284311467e10a17af6fe793f7636b75 *man/python_venv.Rd
 92814a4d81760dac904ef6d431bbf00d *man/quarto.Rd
 09809394c68a7d0966b3d8263d565df6 *man/r.Rd
 fdca53b09d712752fcdcd88bfd03977b *man/rstudio.Rd
@@ -72,6 +76,8 @@ b4d54c34cc00a5fb0cd5ed1b1047eb02 *tests/testthat/test-networking.R
 cd29a9ba0819f2b17d9693d684e57c4a *tests/testthat/test-nix.R
 37b5df2ee60aeb4d996982b7ecae2745 *tests/testthat/test-option.R
 79237b718a66c97c0957287385c21779 *tests/testthat/test-os.R
+4315a3b7f7c46b56525e5a69919dccc7 *tests/testthat/test-positron.R
+03c361a429166bd82a089d952e0c7eb9 *tests/testthat/test-python_venv.R
 8d9be065123614f1bc99c6e4aa4d9db4 *tests/testthat/test-quarto.R
 4fce29d706366ff2e95af775c5a18f92 *tests/testthat/test-r.R
 7928ea658416252894e82104f8c2a84b *tests/testthat/test-rstudio.R
